@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "clickygame-antman.png"
+    },
+    {
+        "id": 2,
+        "image": "clickygame-blackpanther.png"
+    },
+    {
+        "id": 3,
+        "image": "clickygame-blackwidow.png"
+    },
+    {
+        "id": 4,
+        "image": "clickygame-captainamerica.png"
+    },
+    {
+        "id": 5,
+        "image": "clickygame-captainmarvel.png"
+    },
+    {
+        "id": 6,
+        "image": "clickygame-doctorstrange.png"
+    },
+    {
+        "id": 7,
+        "image": "clickygame-falcon.png"
+    },
+    {
+        "id": 8,
+        "image": "clickygame-hawkeye.png"
+    },
+    {
+        "id": 9,
+        "image": "clickygame-hulk.png"
+    },
+    {
+        "id": 10,
+        "image": "clickygame-ironman.png"
+    },
+    {
+        "id": 11,
+        "image": "clickygame-spiderman.png"
+    },
+    {
+        "id": 12,
+        "image": "clickygame-thor.png"
+    }
+]
